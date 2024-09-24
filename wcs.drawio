@@ -31,7 +31,7 @@
           <mxGeometry x="39" y="376" width="226" height="110" as="geometry" />
         </mxCell>
         <mxCell id="hVo5-sWOoQNTmmVc_gG6-21" value="Em média&amp;nbsp; temos input de 100 notas por mês" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="320" y="330" width="270" height="30" as="geometry" />
+          <mxGeometry x="310" y="240" width="270" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
